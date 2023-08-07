@@ -1,5 +1,5 @@
 // TODO: write your code here
-function canIterate(obj) {
+export default function canIterate(obj) {
   if (obj == null) {
     return false;
   }
